@@ -11,3 +11,15 @@
  *= require_self
  *= require_tree .
 */
+@import "bootstrap";
+
+body {
+  background-color: black;
+}
+
+.subscribe {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 250px;
+}
