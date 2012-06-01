@@ -1,10 +1,5 @@
 require 'rvm/capistrano'                  # Load RVM's capistrano plugin.
 require 'bundler/capistrano'
-require 'sidekiq/capistrano'
-
-set :whenever_command, "bundle exec whenever"
-require "whenever/capistrano"
-
 
 set :application, "ryanromanchuk"
 set :rails_env, 'production'
