@@ -1,13 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.3'
+gem 'rails'
 gem 'haml'
 gem 'bootstrap-sass'
 gem 'execjs'
 gem 'capistrano'
-# Bundle edge Rails instead:
-# gem 'rails', :git => 'git://github.com/rails/rails.git'
-
 gem 'sqlite3'
 
 

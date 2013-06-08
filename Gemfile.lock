@@ -139,7 +139,7 @@ DEPENDENCIES
   haml
   jquery-rails
   pry-rails
-  rails (= 3.2.3)
+  rails
   rvm-capistrano
   sass-rails (~> 3.2.3)
   sqlite3
